@@ -14,29 +14,3 @@ Contact me at <hamster5295@163.com> !
 
   
 ![Hamster's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamster5295&count_private=true)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,godot&theme=light" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,electron&theme=light" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio&theme=light" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust&theme=light" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,py,pytorch,sklearn&theme=light" />
-  </a>
-</p>
