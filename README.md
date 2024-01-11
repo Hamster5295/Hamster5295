@@ -1,4 +1,4 @@
-## Greetings! 👋 This is `Hamster5295` !
+## 👋 Greetings! This is `Hamster5295` !
 I am...  
 * 🎮 An Indie Game dev with passion for building better digital arts   
 
