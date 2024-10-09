@@ -4,7 +4,7 @@ I am...
 
 * 💻 Enthusiast of Information Technology with the capability of multiple tech stacks  
 
-* 📖 Undergraduate from **Huazhong University of Science and Technology** in Wuhan, China 📖  
+* 📖 Undergraduate from **Huazhong University of Science and Technology** in Wuhan, China, learning ***Intergrated Circuits***
 
 * ✨ Member of [Bingyan Studio](https://github.com/BingyanStudio), an organization dedicated for innovative IT projects.  
   
