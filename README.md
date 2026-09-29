@@ -1,6 +1,6 @@
 ## 👋 Greetings! This is `Hamster5295` !
 I am...  
-* 📖 Undergraduate from **Huazhong University of Science and Technology** in Wuhan, China, learning ***Intergrated Circuits***
+* 📖 Working for a master's degree at ICT, researching on architecture of RISC-V Matrix Accelerators
 
 * 🎮 Indie Game Dev with passion for building better digital arts   
 
